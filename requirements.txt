@@ -1,0 +1,12 @@
+sentence_transformers==2.2.2
+
+langchain-community
+langchain-huggingface
+tiktoken
+pypdf
+faiss-gpu
+InstructorEmbedding
+
+transformers
+accelerate
+bitsandbytes
